@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-4" value="N有效？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="479" y="510" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-q7gdUqhtQMj_2-9FyI-5" target="j-q7gdUqhtQMj_2-9FyI-6">
           <mxGeometry relative="1" as="geometry" />
@@ -53,6 +53,15 @@
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-10" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-20" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j-q7gdUqhtQMj_2-9FyI-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
