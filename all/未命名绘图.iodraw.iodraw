@@ -45,6 +45,11 @@
         <mxCell id="4PGZDPwsKTnis5_GuAmA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-6" target="4PGZDPwsKTnis5_GuAmA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4PGZDPwsKTnis5_GuAmA-17">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-6" value="答案有效？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,6 +76,11 @@
             <Array as="points">
               <mxPoint x="430" y="810" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4PGZDPwsKTnis5_GuAmA-23">
+          <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-8" value="&amp;nbsp;还有题？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
