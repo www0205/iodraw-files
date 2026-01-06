@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-1" value="开始" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="92" height="49" as="geometry" />
+          <mxGeometry x="360" y="50" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-3" value="文件存在?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="190" width="220" height="60" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry x="345.5" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-59" value="初始化题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="346" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-61" value="显示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="510" width="120" height="45" as="geometry" />
