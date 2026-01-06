@@ -82,6 +82,9 @@
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="820" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gEN4yd6_vdbrfuyQVNv6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEN4yd6_vdbrfuyQVNv6-11" target="gEN4yd6_vdbrfuyQVNv6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-11" value="输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="710" width="124" height="50" as="geometry" />
         </mxCell>
