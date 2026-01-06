@@ -51,10 +51,12 @@
         <mxCell id="4PGZDPwsKTnis5_GuAmA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-8" target="4PGZDPwsKTnis5_GuAmA-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4PGZDPwsKTnis5_GuAmA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-8" target="4PGZDPwsKTnis5_GuAmA-4">
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359" y="810" as="sourcePoint" />
+            <mxPoint x="469" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="840" />
+              <mxPoint x="469" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,7 +64,7 @@
           <mxGeometry x="260" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="910" width="85" height="40" as="geometry" />
+          <mxGeometry x="277.5" y="880" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
