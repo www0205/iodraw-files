@@ -17,7 +17,10 @@
           <mxGeometry x="200" y="460" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-4" value="试&lt;div&gt;题&lt;div&gt;抽&lt;div&gt;取&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="460" width="50" height="100" as="geometry" />
+          <mxGeometry x="280" y="460" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rZxjzvsVbkbyRNTerMIF-5" value="显&lt;div&gt;示&lt;div&gt;试&lt;div&gt;题&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="440" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
