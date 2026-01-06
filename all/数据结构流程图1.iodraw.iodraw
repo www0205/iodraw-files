@@ -91,12 +91,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-3" target="I6fB9Q20OCfOuB2o-H6C-6">
+        <mxCell id="I6fB9Q20OCfOuB2o-H6C-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="230" />
-              <mxPoint x="486" y="372" />
+              <mxPoint x="545.78" y="350" />
             </Array>
+            <mxPoint x="515.4973913043477" y="214.304347826087" as="sourcePoint" />
+            <mxPoint x="764.78" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-5" target="I6fB9Q20OCfOuB2o-H6C-7">
