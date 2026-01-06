@@ -69,9 +69,6 @@
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-63" value="创建空题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-64" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-65" target="I6fB9Q20OCfOuB2o-H6C-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -93,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-73" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363.5" y="680" width="84" height="40" as="geometry" />
+          <mxGeometry x="364" y="660" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
