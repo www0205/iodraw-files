@@ -55,13 +55,18 @@
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gEN4yd6_vdbrfuyQVNv6-5" target="gEN4yd6_vdbrfuyQVNv6-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="735" />
+              <mxPoint x="30" y="495" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-5" value="记分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="710" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-7" value="计算成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="580" width="100" height="50" as="geometry" />
+          <mxGeometry x="250" y="575" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
