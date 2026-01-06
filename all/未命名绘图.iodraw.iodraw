@@ -64,9 +64,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="560" as="sourcePoint" />
             <mxPoint x="440" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="530" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-25" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j-q7gdUqhtQMj_2-9FyI-24">
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-25" value="f否" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j-q7gdUqhtQMj_2-9FyI-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
