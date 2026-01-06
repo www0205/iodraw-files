@@ -11,7 +11,7 @@
           <mxGeometry x="295.5" y="190" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-5" value="初始化题库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="271" y="507" width="110" height="49" as="geometry" />
+          <mxGeometry x="352" y="470" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-6" value="创建空题库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="530" y="350" width="110" height="49" as="geometry" />
@@ -96,13 +96,6 @@
             </Array>
             <mxPoint x="515.4973913043477" y="220.00434782608698" as="sourcePoint" />
             <mxPoint x="690" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-5" target="I6fB9Q20OCfOuB2o-H6C-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="326" y="580" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.92;entryY=0;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-6" target="I6fB9Q20OCfOuB2o-H6C-7">
