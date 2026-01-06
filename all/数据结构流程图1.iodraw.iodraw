@@ -72,6 +72,9 @@
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-64" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I6fB9Q20OCfOuB2o-H6C-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-65" target="I6fB9Q20OCfOuB2o-H6C-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-65" value="选择操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="600" width="120" height="40" as="geometry" />
         </mxCell>
@@ -90,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-73" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="750" width="84" height="40" as="geometry" />
+          <mxGeometry x="363.5" y="680" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
