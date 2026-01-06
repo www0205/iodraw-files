@@ -55,7 +55,7 @@
             <mxPoint x="466" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-61">
+        <mxCell id="I6fB9Q20OCfOuB2o-H6C-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-61" target="I6fB9Q20OCfOuB2o-H6C-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="406" y="654" as="sourcePoint" />
@@ -82,9 +82,6 @@
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-64" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-65" target="I6fB9Q20OCfOuB2o-H6C-61">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-65" value="选择操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="345.5" y="720" width="120" height="60" as="geometry" />
