@@ -45,10 +45,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZxjzvsVbkbyRNTerMIF-1" target="rZxjzvsVbkbyRNTerMIF-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="440" />
+              <mxPoint x="160" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZxjzvsVbkbyRNTerMIF-1" target="rZxjzvsVbkbyRNTerMIF-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="440" />
+              <mxPoint x="100" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZxjzvsVbkbyRNTerMIF-1" target="rZxjzvsVbkbyRNTerMIF-2">
           <mxGeometry relative="1" as="geometry">
