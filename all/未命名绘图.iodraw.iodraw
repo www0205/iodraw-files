@@ -17,6 +17,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-3" value="试卷就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="320" width="130" height="60" as="geometry" />
         </mxCell>
