@@ -37,7 +37,7 @@
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-5" value="记分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="710" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-7" value="计算成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="580" width="100" height="50" as="geometry" />
