@@ -7,6 +7,9 @@
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-q7gdUqhtQMj_2-9FyI-1" target="j-q7gdUqhtQMj_2-9FyI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-q7gdUqhtQMj_2-9FyI-1" target="j-q7gdUqhtQMj_2-9FyI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-1" value="题库空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="180" height="50" as="geometry" />
         </mxCell>
@@ -52,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-9" value="输入数量N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="483.5" y="410" width="133" height="40" as="geometry" />
+          <mxGeometry x="485" y="400" width="133" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j-q7gdUqhtQMj_2-9FyI-10" target="j-q7gdUqhtQMj_2-9FyI-1">
           <mxGeometry relative="1" as="geometry" />
