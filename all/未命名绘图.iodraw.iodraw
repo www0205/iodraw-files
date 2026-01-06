@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4PGZDPwsKTnis5_GuAmA-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-3" value="试卷就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="130" height="60" as="geometry" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-8" value="还有题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4PGZDPwsKTnis5_GuAmA-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="710" width="120" height="60" as="geometry" />
