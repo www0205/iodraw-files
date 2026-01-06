@@ -81,10 +81,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515.5" y="219.5" as="sourcePoint" />
             <mxPoint x="615.5" y="219.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-68" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="I6fB9Q20OCfOuB2o-H6C-67">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="48" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
