@@ -17,9 +17,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4PGZDPwsKTnis5_GuAmA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-3" target="4PGZDPwsKTnis5_GuAmA-11">
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="810" as="targetPoint" />
+            <mxPoint x="320" y="910" as="targetPoint" />
+            <mxPoint x="255" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="200" y="300" />
+              <mxPoint x="200" y="940" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-3" value="试卷就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,7 +80,7 @@
           <mxGeometry x="260" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="970" width="85" height="40" as="geometry" />
+          <mxGeometry x="277.5" y="920" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
