@@ -60,7 +60,11 @@
           <mxGeometry x="345.5" y="510" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-63" target="I6fB9Q20OCfOuB2o-H6C-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="533" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-63" value="创建空题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="350" width="120" height="40" as="geometry" />
