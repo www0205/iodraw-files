@@ -93,12 +93,17 @@
             <Array as="points">
               <mxPoint x="391.75" y="520" />
               <mxPoint x="330" y="520" />
-              <mxPoint x="310" y="570" />
+              <mxPoint x="330" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j-q7gdUqhtQMj_2-9FyI-24">
           <mxGeometry x="-0.0391" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j-q7gdUqhtQMj_2-9FyI-24">
+          <mxGeometry x="0.4534" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
