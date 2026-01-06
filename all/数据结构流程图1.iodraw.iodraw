@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-69" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I6fB9Q20OCfOuB2o-H6C-67">
           <mxGeometry x="0.4124" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
