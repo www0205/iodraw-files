@@ -19,7 +19,7 @@
         <mxCell id="rZxjzvsVbkbyRNTerMIF-4" value="试&lt;div&gt;题&lt;div&gt;抽&lt;div&gt;取&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="460" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rZxjzvsVbkbyRNTerMIF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rZxjzvsVbkbyRNTerMIF-6" value="答&lt;div&gt;题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="460" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -29,7 +29,7 @@
           <mxGeometry x="440" y="460" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="400" width="40" height="100" as="geometry" />
+          <mxGeometry x="560" y="460" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="460" width="40" height="100" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="40" y="210" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="460" width="40" height="100" as="geometry" />
+          <mxGeometry x="500" y="460" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
