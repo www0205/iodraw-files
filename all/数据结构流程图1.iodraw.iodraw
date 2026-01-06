@@ -7,8 +7,8 @@
         <mxCell id="rZxjzvsVbkbyRNTerMIF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZxjzvsVbkbyRNTerMIF-0" target="rZxjzvsVbkbyRNTerMIF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rZxjzvsVbkbyRNTerMIF-0" value="单项选择题标准化考试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="260" width="200" height="60" as="geometry" />
+        <mxCell id="rZxjzvsVbkbyRNTerMIF-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;单项选择题标准化考试系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="250" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rZxjzvsVbkbyRNTerMIF-1" target="rZxjzvsVbkbyRNTerMIF-9">
           <mxGeometry relative="1" as="geometry">
