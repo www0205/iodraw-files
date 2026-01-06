@@ -14,10 +14,10 @@
           <mxGeometry x="255" y="320" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-4" value="逐题显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-5" value="获取答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-6" value="答案有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="80" height="80" as="geometry" />
