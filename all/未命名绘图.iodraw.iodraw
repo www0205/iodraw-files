@@ -86,11 +86,12 @@
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-23" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j-q7gdUqhtQMj_2-9FyI-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="j-q7gdUqhtQMj_2-9FyI-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500.75" y="520" as="sourcePoint" />
             <mxPoint x="296.75" y="620" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="420" y="520" />
               <mxPoint x="391.75" y="520" />
               <mxPoint x="330" y="520" />
             </Array>
