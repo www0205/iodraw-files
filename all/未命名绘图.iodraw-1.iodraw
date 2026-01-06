@@ -17,7 +17,7 @@
           <mxGeometry x="110" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-5" value="记分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-6" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-8" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gEN4yd6_vdbrfuyQVNv6-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="gEN4yd6_vdbrfuyQVNv6-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
