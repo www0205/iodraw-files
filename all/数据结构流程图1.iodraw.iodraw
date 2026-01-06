@@ -76,46 +76,6 @@
             <mxPoint x="406" y="654" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-33" value="添加" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="51" y="852" />
-            </Array>
-            <mxPoint x="51" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-36" value="删除" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="223" y="852" />
-            </Array>
-            <mxPoint x="222.7450980392157" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-40" value="显示" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="342" y="852" />
-            </Array>
-            <mxPoint x="342" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-42" value="查找" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="852" />
-            </Array>
-            <mxPoint x="470" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-45" value="排序" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="612" y="852" />
-            </Array>
-            <mxPoint x="611.078431372549" y="889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-47" value="保存" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
