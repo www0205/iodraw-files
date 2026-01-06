@@ -13,8 +13,8 @@
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-2" value="显示题量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-3" value="输入数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-3" value="输入数量N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
