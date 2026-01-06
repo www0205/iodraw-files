@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="rZxjzvsVbkbyRNTerMIF-0" value="单项选择题标准化考试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="280" width="160" height="50" as="geometry" />
+          <mxGeometry x="190" y="280" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-1" value="读取文本文件中的试题库数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="370" width="160" height="50" as="geometry" />
+          <mxGeometry x="190" y="370" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-2" value="试&lt;div&gt;题&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;录&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;入&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="470" width="40" height="100" as="geometry" />
