@@ -94,6 +94,7 @@
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="I6fB9Q20OCfOuB2o-H6C-3" target="I6fB9Q20OCfOuB2o-H6C-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="610" y="230" />
               <mxPoint x="486" y="372" />
             </Array>
           </mxGeometry>
