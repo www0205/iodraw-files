@@ -19,8 +19,11 @@
         <mxCell id="j-q7gdUqhtQMj_2-9FyI-4" value="N有效？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-5" value="复制题库--&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-5" value="复制题库--&amp;gt;洗牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
