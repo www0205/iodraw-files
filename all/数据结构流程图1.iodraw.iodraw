@@ -17,7 +17,7 @@
           <mxGeometry x="271" y="507" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-6" value="创建空题库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="650" y="370" width="110" height="49" as="geometry" />
+          <mxGeometry x="530" y="360" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-7" value="显示菜单" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="359" y="605" width="94" height="49" as="geometry" />
@@ -220,18 +220,6 @@
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-49" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;加载文件&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="460" as="sourcePoint" />
-            <mxPoint x="460" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I6fB9Q20OCfOuB2o-H6C-54" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="I6fB9Q20OCfOuB2o-H6C-53">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
