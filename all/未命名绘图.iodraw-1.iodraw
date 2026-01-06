@@ -22,8 +22,11 @@
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-6" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gEN4yd6_vdbrfuyQVNv6-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gEN4yd6_vdbrfuyQVNv6-7" value="计算成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gEN4yd6_vdbrfuyQVNv6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
