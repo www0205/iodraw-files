@@ -73,7 +73,7 @@
           <mxGeometry x="350" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-65" value="选择操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="345.5" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I6fB9Q20OCfOuB2o-H6C-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I6fB9Q20OCfOuB2o-H6C-63">
           <mxGeometry relative="1" as="geometry">
@@ -88,6 +88,9 @@
           <mxGeometry x="0.4124" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I6fB9Q20OCfOuB2o-H6C-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
