@@ -19,17 +19,11 @@
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-5" value="记分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gEN4yd6_vdbrfuyQVNv6-6" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-7" value="计算成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gEN4yd6_vdbrfuyQVNv6-8" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
