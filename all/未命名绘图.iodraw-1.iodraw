@@ -54,6 +54,9 @@
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-4" value="正确？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gEN4yd6_vdbrfuyQVNv6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gEN4yd6_vdbrfuyQVNv6-5" target="gEN4yd6_vdbrfuyQVNv6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-5" value="记分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="710" width="100" height="50" as="geometry" />
         </mxCell>
