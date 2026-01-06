@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-2" value="有记录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gEN4yd6_vdbrfuyQVNv6-3" value="遍历记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
