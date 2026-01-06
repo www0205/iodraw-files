@@ -60,10 +60,7 @@
             <mxPoint x="440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-20" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="j-q7gdUqhtQMj_2-9FyI-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j-q7gdUqhtQMj_2-9FyI-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j-q7gdUqhtQMj_2-9FyI-19">
+        <mxCell id="j-q7gdUqhtQMj_2-9FyI-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j-q7gdUqhtQMj_2-9FyI-19">
           <mxGeometry x="-0.0718" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
