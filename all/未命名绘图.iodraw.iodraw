@@ -10,14 +10,21 @@
         <mxCell id="4PGZDPwsKTnis5_GuAmA-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-3" target="4PGZDPwsKTnis5_GuAmA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-3" value="试卷就绪？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="320" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-4" value="逐题显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="100" height="50" as="geometry" />
+          <mxGeometry x="380" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-5" value="获取答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-6" value="答案有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="80" height="80" as="geometry" />
