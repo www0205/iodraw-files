@@ -28,7 +28,7 @@
         <mxCell id="rZxjzvsVbkbyRNTerMIF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="460" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rZxjzvsVbkbyRNTerMIF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rZxjzvsVbkbyRNTerMIF-9" value="删除试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="460" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZxjzvsVbkbyRNTerMIF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -40,7 +40,7 @@
         <mxCell id="rZxjzvsVbkbyRNTerMIF-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="210" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rZxjzvsVbkbyRNTerMIF-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rZxjzvsVbkbyRNTerMIF-13" value="保存题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="460" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
