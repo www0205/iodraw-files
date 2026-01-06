@@ -55,6 +55,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4PGZDPwsKTnis5_GuAmA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PGZDPwsKTnis5_GuAmA-6" target="4PGZDPwsKTnis5_GuAmA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PGZDPwsKTnis5_GuAmA-6" value="答案有效？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
         </mxCell>
